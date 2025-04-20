@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Magmarovich/VigenereCipher.git
-   cd vigenere_cipher
+   cd VigenereCipher
    ```
 
 2. Убедитесь, что у вас установлен Python. Для проверки версии выполните:
